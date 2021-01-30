@@ -1,0 +1,5 @@
+- [ ] What is going on with Lua version numbers
+    - Why it's good that LuaJIT is with Lua 5.1 (from Neovim's perspective)
+    - Where are things going there
+- [ ] How did I get into programming?
+- [ ] How did I get into open source?
